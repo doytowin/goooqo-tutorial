@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "marp": "marp --bespoke.progress -w --theme-set custom.css -- goooqo.md --html --allow-local-file"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.2.3"
+  }
+}
