@@ -3,9 +3,7 @@ GoooQo Tutorial
 
 - [Quick Start](assets/goooqo.md)
 
-Youtube: https://youtube.com/watch?v=Tv2cKbMCvBQ&si=ZSBbigtbbEnbnBBQ
-
-Run the `main` method to start the web server and execute the following commands to visit the REST API:
+Run the `main` method to start the web server and execute the following commands to visit the REST APIs:
 
 ```shell
 ## Query the data list.
@@ -32,7 +30,7 @@ Add the following fields to `UserQuery` to test dynamic queries:
 
 ```go
 type UserQuery struct {
-	core.PageQuery
+	goooqo.PageQuery
 	Memo     *string
 	ScoreLt  *int
 	ScoreGe  *int
@@ -54,3 +52,8 @@ curl -X PATCH http://localhost:9090/user/?memo=Good -d '{"memo":"OK"}'
 ## Delete the data where memo is "OK".
 curl -X DELETE http://localhost:9090/user/?memo=OK
 ```
+
+## Video on YouTube
+
+[![Quick Start for GoooQo](https://img.youtube.com/vi/Tv2cKbMCvBQ/0.jpg)](https://youtu.be/Tv2cKbMCvBQ?si=EH6RiBf18ovLt7tx)
+

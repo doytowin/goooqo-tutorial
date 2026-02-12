@@ -1,12 +1,14 @@
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/doytowin/goooqo v0.3.1-pre h1:3O2lQ6rHBMt2AOZzXvgg/i+na4+PEnHqJ5qKTWJ413s=
+github.com/doytowin/goooqo v0.3.1-pre/go.mod h1:9WoW2t0OHPNb0cpKdHI7gB+jr7Aw8ar26acJIMc1e6o=
 github.com/doytowin/goooqo/core v0.3.0 h1:qMEPA0N0UhZuMriKbuZeb9x80DPJ3SKmcGQmnQ6LsiQ=
 github.com/doytowin/goooqo/core v0.3.0/go.mod h1:UYkPfuvhaeSp/Vkvwz/X82dY+mvI7uVKDjoMoIOXd4k=
 github.com/doytowin/goooqo/rdb v0.3.0 h1:88N40Zci1CmTWfvEyG82G/vS0laURST+piOnvMUbTkQ=
 github.com/doytowin/goooqo/rdb v0.3.0/go.mod h1:En7lyU2v3X6pd1tifXkDI7LS5IAq9XXHQe4zbfiYLTc=
-github.com/doytowin/goooqo/test v0.2.3 h1:fN55ZGHrKpY2t2mcZDZRalcotTGN4Ttxzqym1qHU7ss=
-github.com/doytowin/goooqo/test v0.2.3/go.mod h1:3o69FflbN/CeDkoqgg19njppAvchxFegmLMO3/QBojU=
+github.com/doytowin/goooqo/test v0.3.0 h1:KPoW4XTqBzma8KxuclhzIjIpFd1V7wv782orwKNVOpU=
+github.com/doytowin/goooqo/test v0.3.0/go.mod h1:GLRUYUvE+y0R6B6rSg62p1YtgH+Ouv/45xCOoZAHk60=
 github.com/doytowin/goooqo/web v0.3.0 h1:BrDkEGLoW1cJ8a/aya5wtF27ihEOtBvm/S+Vv2UENhw=
 github.com/doytowin/goooqo/web v0.3.0/go.mod h1:lJ2Tq730pxeTMDe7ZcuVpmlC8SHtxu1Zrmf1lRNI85Q=
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
